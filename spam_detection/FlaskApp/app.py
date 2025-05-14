@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import joblib
 import os
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='templates')
 
 # Load the saved model
 model_path = os.path.join(os.path.dirname(__file__), 'model', 'best_spam_model.pkl')
@@ -14,11 +14,12 @@ def home():
     if request.method == 'POST':
         message = request.form['message']
         prediction = model.predict([message])
-        prediction = 'spam' if prediction[0] == 'spam' else 'ham'  
+        prediction = 'spam' if prediction[0] == 'spam' else 'ham'
     return render_template('index.html', prediction=prediction)
 
 if __name__ == '__main__':
     app.run(debug=True)
+
 
 
 # cd FlaskApp
