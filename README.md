@@ -48,6 +48,9 @@ python app.py
 Then open your browser and go to:  
 **http://127.0.0.1:5000**
 
+⚠️ **Note:** The link `http://127.0.0.1:5000` is for local development purposes only. It will work only on your machine when the Flask app is running. Others will not be able to access your app using this link.
+
+
 ---
 
 ##  How to Use Online
