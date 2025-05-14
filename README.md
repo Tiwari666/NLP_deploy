@@ -20,3 +20,10 @@ A simple and effective NLP-based web app to detect whether a message is **spam**
    ```bash
    git clone https://github.com/Tiwari666/NLP_deploy.git
    cd NLP_deploy/spam_detection/FlaskApp
+
+
+2. **Create a virtual environment:**
+
+   python -m venv venv
+source venv/bin/activate      # For Linux/Mac
+venv\Scripts\activate         # For Windows
