@@ -1,10 +1,10 @@
-# 📬 NLP Spam Detector – Deployed with Flask + Render
+#  NLP Spam Detector – Deployed with Flask + Render
 
 This is a simple yet powerful web app that classifies user messages as **spam** or **ham** using Natural Language Processing (NLP) and Machine Learning.
 
 ---
 
-## 🔍 Description
+##  Description
 
 This project uses a trained **Scikit-learn model** wrapped in a **Flask** web application and deployed via **Render**. Users can input text and get instant predictions about whether the message is spam.
 
@@ -58,7 +58,7 @@ The app is deployed live using [Render](https://render.com).
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 
 ![Spam Detection App Screenshot](screenshot.png)
 
