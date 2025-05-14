@@ -61,7 +61,7 @@ The app is deployed live using [Render](https://render.com).
 ##  Screenshot
 
 ![Spam Detection App Screenshot](![![image])]
-![Spam Detection App Screenshot](![![image](https://github.com/user-attachments/assets/5004ccc2-353a-4bf3-959d-2d8ede2a74b9)]
+![Spam Detection App Screenshot](![![image]]
 ---
 
 ## Project Structure
