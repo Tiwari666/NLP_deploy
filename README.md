@@ -54,7 +54,9 @@ Then open your browser and go to:
 
 The app is deployed live using [Render](https://render.com).
 
-🔗 **Live Demo:** [https://nlp-spam-detector-deploy.onrender.com](https://nlp-spam-detector-deploy.onrender.com)
+## 🔗 Live Demo
+Access the live app here: [Click to try the Spam Detector](https://nlp-spam-detector-deploy.onrender.com)
+
 
 ---
 
