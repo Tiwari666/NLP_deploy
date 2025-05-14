@@ -58,6 +58,7 @@ Then open your browser and go to:
 The app is deployed live using [Render](https://render.com).
 
 ⚠️ **Note:** This app is hosted on Render using the free Hobby plan.
+
 🔒  **Note:** Build pipeline is locked at $0/month to avoid any charges.
 
 
